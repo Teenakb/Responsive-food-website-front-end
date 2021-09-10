@@ -127,6 +127,10 @@ header .icons #menu-bars{
         width: 90%;
         margin: 0 1rem;
     }
+   header .icons{
+        overflow: hidden;
+        width:100%;
+    }
 }
 
 @media (max-width:991px){
@@ -146,6 +150,7 @@ header .icons #menu-bars{
 @media (max-width:450px){
     html{
         font-size: 50%;
+        overfllow: hidden;
     }
     .dishes .box-container .box img{
         height:auto;
