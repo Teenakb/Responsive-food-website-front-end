@@ -94,9 +94,11 @@ header .icons #menu-bars{
     }
     header{
         padding: 1rem 2rem;
+        overflow: hidden;
     }
     section{
         padding:2rem;
+        overflow: hidden;
     }
 }
 
@@ -126,10 +128,11 @@ header .icons #menu-bars{
     #search-form #search-box{
         width: 90%;
         margin: 0 1rem;
+        overflow: hidden;
     }
    header .icons{
         overflow: hidden;
-        width:100%;
+        width:90%;
     }
 }
 
@@ -140,9 +143,11 @@ header .icons #menu-bars{
     .dishes .box-container .box img{
         height:auto;
         width: 100%;
+        overflow: hidden;
     }
     .order form .inputBox .input{
         width:100%;
+        overflow: hidden;
     }
 
 }
@@ -155,9 +160,11 @@ header .icons #menu-bars{
     .dishes .box-container .box img{
         height:auto;
         width: 100%;
+        overflow: hidden;
     }
     .order form .inputBox .input{
         width:100%;
+        overflow: hidden;
     }
 
 }
