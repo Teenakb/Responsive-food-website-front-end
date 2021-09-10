@@ -130,10 +130,7 @@ header .icons #menu-bars{
         margin: 0 1rem;
         overflow: hidden;
     }
-   header .icons{
-        overflow: hidden;
-        width:70%;
-    }
+   
 }
 
 @media (max-width:991px){
